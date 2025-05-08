@@ -1,5 +1,5 @@
 # chku0036_9103_tut5
-Week9 quiz – design research
+Quiz 8 – design research
 
 **Part 1: Imaging Technique Inspiration**
 
